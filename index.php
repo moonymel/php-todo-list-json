@@ -12,12 +12,23 @@
 <body>
     
     <div id="app">
+        <div class="container my-4">
+            <div class="row">
+                <div class="col-6">
+                    <h2>ToDo List</h2>
+                    <ul class="unstyled-list">
+                        <li v-for="todo, key in todoList" :key="key">
+                            {{ todo.task }}
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
 
-        
 
     </div>
 
-
+    <script type="text/javascript" src="./js/script.js"></script>
 </body>
 
 </html>

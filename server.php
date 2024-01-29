@@ -2,6 +2,9 @@
 
     //recupero file json
     $todo_list = file_get_contents('todo-list.json');
-    var_dump($todo_list);
+
+    header('Content-type: application/json');
+
+    echo $todo_list;
 
 ?>
