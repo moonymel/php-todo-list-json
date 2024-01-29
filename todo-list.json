@@ -1,18 +1,18 @@
 [
     {
         "task": "Fare la lavatrice",
-        "check": false,
+        "check": false
     },
     {
         "task": "Comprare cibo per gatti",
-        "check": false,
+        "check": false
     },
     {
         "task": "Sistemare CV",
-        "check": false,
+        "check": false
     },
     {
         "task": "Uscire con Greta",
-        "check": false,
+        "check": false
     }
 ]
