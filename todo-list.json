@@ -1,0 +1,18 @@
+[
+    {
+        todo: 'Fare la lavatrice',
+        check: false,
+    },
+    {
+        todo: 'Comprare cibo per gatti',
+        check: false,
+    },
+    {
+        todo: 'Sistemare CV',
+        check: false,
+    },
+    {
+        todo: 'Uscire con Greta',
+        check: false,
+    },
+]
