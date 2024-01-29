@@ -9,7 +9,6 @@ createApp({
     },
     mounted() {
         this.getList();
-        console.log(todoList);
     },
     methods: {
         getList() {
@@ -17,6 +16,7 @@ createApp({
                 console.log(response.data);
                 this.todoList = response.data;
             })
+
         }
     }
 }).mount('#app')

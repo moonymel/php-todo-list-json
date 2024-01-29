@@ -1,18 +1,18 @@
 [
     {
-        task: 'Fare la lavatrice',
-        check: false,
+        "task": "Fare la lavatrice",
+        "check": false,
     },
     {
-        task: 'Comprare cibo per gatti',
-        check: false,
+        "task": "Comprare cibo per gatti",
+        "check": false,
     },
     {
-        task: 'Sistemare CV',
-        check: false,
+        "task": "Sistemare CV",
+        "check": false,
     },
     {
-        task: 'Uscire con Greta',
-        check: false,
-    },
+        "task": "Uscire con Greta",
+        "check": false,
+    }
 ]
